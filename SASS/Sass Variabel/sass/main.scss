@@ -1,0 +1,37 @@
+// Variabel CSS
+// :root {
+//     --primary-color: rgb(95, 149, 100);
+//     --secondary-color: black;
+//     --text-color: red;
+// }
+
+// body {
+//     background-color: var(--primary-color);
+// }
+
+// h1 {
+//     color: var(--text-color);
+// }
+
+// Variabel Sass
+// $primary-color: #dddd;
+// $secondary-color: lightblue;
+// $text-color: red;
+
+// body {
+//     background-color: $primary-color;
+
+//     h1 {
+//         color: $text-color;
+//     }
+// }
+
+$alert: (
+    "danger": red,
+    "success": green,
+    "warning": orange,
+);
+
+h1 {
+    color: map-get($alert, "warning");
+}

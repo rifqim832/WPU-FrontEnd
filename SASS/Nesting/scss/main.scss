@@ -1,0 +1,46 @@
+// .main {
+//     background-color: lightblue;
+
+//     .main-heading {
+//         font-size: 2em;
+//     }
+
+//     .main-paragraph {
+//         font-size: 1.4em;
+//     }
+// }
+
+// Parent Selector
+// .main {
+//     .container & {
+//         background-color: lightblue;
+//     }
+
+//     .main-heading {
+//         font-size: 2em;
+//     }
+
+//     &:hover {
+//         background-color: salmon;
+//     }
+// }
+
+.main {
+    & &-heading {
+        background-color: salmon;
+    }
+
+    & &-paragraph {
+        background-color: aqua;
+    }
+}
+
+.footer {
+    & &-heading {
+        background-color: salmon;
+    }
+
+    & &-paragraph {
+        background-color: aqua;
+    }
+}

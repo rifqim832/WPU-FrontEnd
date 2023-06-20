@@ -1,0 +1,15 @@
+h1 {
+    font-size: 100px;
+    text-decoration: line-through;
+    text-align: center;
+    color: rgb(33, 190, 252);
+}
+
+p {
+    text-align: justify;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-family: courier new;
+    color: lightcoral;
+    text-indent: 100px;
+}
