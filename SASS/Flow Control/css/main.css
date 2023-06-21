@@ -39,43 +39,43 @@ body {
 }
 .gradient li:nth-child(1) {
   padding: 4px;
-  background-color: #fb8d81;
+  background-color: #0f0fff;
 }
 .gradient li:nth-child(2) {
   padding: 4px;
-  background-color: #fb9b90;
+  background-color: #1f1fff;
 }
 .gradient li:nth-child(3) {
   padding: 4px;
-  background-color: #fca89e;
+  background-color: #2e2eff;
 }
 .gradient li:nth-child(4) {
   padding: 4px;
-  background-color: #fcb5ad;
+  background-color: #3d3dff;
 }
 .gradient li:nth-child(5) {
   padding: 4px;
-  background-color: #fdc3bc;
+  background-color: #4d4dff;
 }
 .gradient li:nth-child(6) {
   padding: 4px;
-  background-color: #fdd0cb;
+  background-color: #5c5cff;
 }
 .gradient li:nth-child(7) {
   padding: 4px;
-  background-color: #feddd9;
+  background-color: #6b6bff;
 }
 .gradient li:nth-child(8) {
   padding: 4px;
-  background-color: #feeae8;
+  background-color: #7a7aff;
 }
 .gradient li:nth-child(9) {
   padding: 4px;
-  background-color: #fff8f7;
+  background-color: #8a8aff;
 }
 .gradient li:nth-child(10) {
   padding: 4px;
-  background-color: white;
+  background-color: #9999ff;
 }
 
 .sosial {
